@@ -11,5 +11,7 @@ It has been implemented in javascript:
 3) Burger menu for the mobile version;
 4) The accordion;
 5) The slider on slick;
+
 The styles are located in the assets / CSS / style.css folder.
+
 The javascript code is stored in the assets / js / app.js folder.
