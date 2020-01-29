@@ -4,6 +4,7 @@ Adapting of this website for mobile devices.
 The project was created using the following frameworks:
 - jquery;
 - slick;
+
 It has been implemented in javascript:
 1) Fixed header;
 2) Smooth scroll to page elements;
